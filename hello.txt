@@ -2,4 +2,5 @@ hello
 This is a new line
 Another new line for confliction
 
-New line from main
+A new line from the new branch
+
